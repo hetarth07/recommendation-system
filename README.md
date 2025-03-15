@@ -1,4 +1,16 @@
-# Ecommerce-product-recommendation-system
+Name: Hetarth Panchal
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT12WOKW
+
+Domain: Machine Learning
+
+Duration: January to April 2025
+
+Mentor: Neela Santhosh
+
+Project Title: Ecommerce-product-recommendation-system
 
 Product Recommendation System is a machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history. The system utilizes collaborative filtering and content-based filtering algorithms to analyze user behavior and generate relevant recommendations. This project aims to improve the overall shopping experience for users, increase sales for e-commerce businesses
 
@@ -75,7 +87,3 @@ Approach -
   4. Calculate the RMSE of the SVD model by taking the square root of the mean of the squared errors between the average actual ratings and the average predicted ratings.
 
 > The squared parameter in the mean_squared_error function determines whether to return the mean squared error (MSE) or the root mean squared error (RMSE). When squared is set to False, the function returns the RMSE, which is the square root of the MSE. In this case, you are calculating the RMSE, so you have set squared to False. This means that the errors are first squared, then averaged, and finally square-rooted to obtain the RMSE.
-     
-
-| ⚠️  This project is solely for learning how recommedation systems work. ⚠️ |
-|-----------------------------------------------------------------------------|
